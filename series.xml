@@ -1,14 +1,20 @@
-<film>
+<serie>
     <titulo>Game of Thrones</titulo>
+    
     <director>Ryan Condal y Miguel Sapochnik</director>
+    
     <actores>
         <actor1>Emilia Clarke</actor1>
         <actor2>Kit Harington</actor2>
         <actor3>Maisie Williams</actor3>
         <actor4>Peter Dinklage (el minion)</actor4>
     </actores>
+    <cosasquenosabias>
+        <cosa1>A Jack Gleeson ya le cruzaron la cara en Batman Begins</cosa1>
+        <cosa2>14 muertes por capítulo. Esa es la media de la primera temporada, una de las series más violentas de la historia que ha mantenido en todos los capítulos a los aficionados con el corazón en un puño.</cosa2>
+    </cosasquenosabias>
     <fecha>17 de abril de 2011</fecha>
     
 
 
-</film>
+</serie>
