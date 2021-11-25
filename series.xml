@@ -1,13 +1,14 @@
 <film>
     <titulo>Game of Thrones</titulo>
+    <director>Ryan Condal y Miguel Sapochnik</director>
     <actores>
-    <actor1>Emilia Clarke</actor1>
-    <actor2>Kit Harington</actor2>
-    <actor3>Maisie Williams</actor3>
-    <actor4>Peter Dinklage (el minion)</actor4>
+        <actor1>Emilia Clarke</actor1>
+        <actor2>Kit Harington</actor2>
+        <actor3>Maisie Williams</actor3>
+        <actor4>Peter Dinklage (el minion)</actor4>
     </actores>
     <fecha>17 de abril de 2011</fecha>
-    <director>Ryan Condal y Miguel Sapochnik</director>
+    
 
 
 </film>
